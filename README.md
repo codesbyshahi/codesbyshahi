@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.PNG" alt="SHAHI Banner" width="100%" />
+  <img src="banner.png" alt="SHAHI Banner" width="100%" />
 </p>
-
 <br>
 <div align="center">
 
