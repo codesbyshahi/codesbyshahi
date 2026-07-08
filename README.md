@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="SHAHI Banner" width="100%" />
+  <img src="./assets/assistant.svg" width="850" alt="Shahi Assistant">
 </p>
 <br>
 <div align="center">
