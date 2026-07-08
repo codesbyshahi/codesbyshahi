@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="SHAHI Banner" width="100%" />
+</p>
+
+<br>
 <div align="center">
 
 # SHAHI
